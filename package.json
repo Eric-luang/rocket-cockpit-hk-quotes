@@ -1,0 +1,29 @@
+{
+  "name": "rocket-cockpit-hk-quotes",
+  "version": "0.1.0",
+  "description": "Real-time HK stock quotes wrapper (Tencent qt.gtimg.cn + Eastmoney push2.eastmoney.com) with GBK decoding. For Chinese A-share/HK stock tools.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "hk-stock",
+    "quotes",
+    "tencent",
+    "eastmoney",
+    "gtimg",
+    "real-time",
+    "chinese-stock",
+    "港股",
+    "实时报价"
+  ],
+  "author": "RocketCockpit Team <team@rocket-cockpit.com>",
+  "license": "Apache-2.0",
+  "engines": { "node": ">=16.0.0" },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rocket-cockpit/rocket-cockpit-hk-quotes.git"
+  },
+  "homepage": "https://github.com/rocket-cockpit/rocket-cockpit-hk-quotes"
+}
